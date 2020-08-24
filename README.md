@@ -38,6 +38,8 @@ Support Vector Machine with tf-idf
 Neural Network with bow, Neural Network with tf-idf
 
 
+
+
 The below is a example of  the f1-score of all the methods:
 Naive Bayes Classifier with bow:  0.5847412314134025
 
